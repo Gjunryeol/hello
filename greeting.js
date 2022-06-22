@@ -1,1 +1,1 @@
-WScript.Echo""
+WScript.Echo("Hello, Jr")
